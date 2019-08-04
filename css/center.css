@@ -1,0 +1,38 @@
+body{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+#center{
+	margin:auto;
+	width:800px;
+	height:1000px;
+	background-color: yellow;
+}
+#divid1{
+	width:800px;
+	height:200px;
+	background-color: red;
+	float:left;
+}
+#divid2{
+	width:400px;
+	height:400px;
+	background-color: blue;
+	float:left;
+}
+.divclass1{
+	width:400px;
+	height:400px;
+	background-color: pink;
+	float:left;
+}
+.divclass2{
+	width:800px;
+	height:200px;
+	background-color: green;
+	float:left;
+}
+.clearfloat{
+	clear:both;
+}
